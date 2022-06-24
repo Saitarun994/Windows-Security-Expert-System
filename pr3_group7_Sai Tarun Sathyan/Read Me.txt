@@ -1,0 +1,27 @@
+Run Instructions
+-----------------
+The machine learning program was coded in google colab so
+you might run into a few unforseen errors while running
+it on a local IDE, make sure to install the following libraries:
+	•Pandas
+	•Numpy
+	•Seaborn
+	•Matplotlib
+	•Sklearn.linear_model
+	•Sklearn.preproccessing
+	•Sklearn.postprocessing
+	•Sklearn.model_selection
+
+
+Requirements
+------------
+You just need the latest version of python and the listed
+libraries to make it work, don't forget to have the excel
+file in the same folder as the python code.I found it much
+easier on google colab so if your PC specs are low run it
+on google colab.
+
+
+
+
+

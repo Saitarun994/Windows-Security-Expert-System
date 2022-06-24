@@ -1,0 +1,19 @@
+QUICK RUN GUIDE
+----------------
+->Program runs on the latest version of python
+->Import Statements Used: 
+	import win32com
+	import windowsapps
+	import winerror
+	import win32security
+	import windows_tools.antivirus
+	import windows_tools.updates
+	import windows_tools.users
+	import windows_tools.windows_firewall
+	from windows_tools.windows_firewall import *
+  Make sure to download these packages
+
+->Usage of IDE like Pycharm would make things easier
+->System Requirements: Windows 10 device
+->Run the Code as Administrator to avoid hindrances
+->Note:There is no .exe file since the libraries did not work in an exe
